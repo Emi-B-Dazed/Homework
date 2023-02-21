@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LrFXp21bMKy0Jgk5zSBckdeRSiyFUsYR7UBHKlKiNzcp4G6eSN4Kr+IVYunhzNrUggdlvJhh1Ws5S00SsQjHjA==",
+  "success": true,
+  "projectFilePath": "C:\\tmpsavingbeforewindowreboot\\Final_Folder\\School_Work\\Past_Classes\\C# Programming Advanced Obj Oriented\\BattleShip\\BattleShip\\BattleShip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emily\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
+    "C:\\Users\\emily\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\emily\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\emily\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

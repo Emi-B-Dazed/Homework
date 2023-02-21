@@ -1,0 +1,27 @@
+C:\Users\emily\source\repos\BattleShip\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.csprojAssemblyReference.cache
+C:\Users\emily\source\repos\BattleShip\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.AssemblyInfoInputs.cache
+C:\Users\emily\source\repos\BattleShip\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.AssemblyInfo.cs
+C:\Users\emily\source\repos\BattleShip\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\emily\source\repos\BattleShip\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.exe
+C:\Users\emily\source\repos\BattleShip\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.deps.json
+C:\Users\emily\source\repos\BattleShip\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.runtimeconfig.json
+C:\Users\emily\source\repos\BattleShip\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.runtimeconfig.dev.json
+C:\Users\emily\source\repos\BattleShip\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.dll
+C:\Users\emily\source\repos\BattleShip\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.pdb
+C:\Users\emily\source\repos\BattleShip\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.dll
+C:\Users\emily\source\repos\BattleShip\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.pdb
+C:\Users\emily\source\repos\BattleShip\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.genruntimeconfig.cache
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\BattleShip\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.exe
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\BattleShip\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.deps.json
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\BattleShip\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.runtimeconfig.json
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\BattleShip\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.runtimeconfig.dev.json
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\BattleShip\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.dll
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\BattleShip\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.pdb
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\BattleShip\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.csproj.AssemblyReference.cache
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\BattleShip\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\BattleShip\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.AssemblyInfoInputs.cache
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\BattleShip\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.AssemblyInfo.cs
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\BattleShip\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.csproj.CoreCompileInputs.cache
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\BattleShip\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.dll
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\BattleShip\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.pdb
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\BattleShip\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.genruntimeconfig.cache

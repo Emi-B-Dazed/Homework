@@ -1,0 +1,27 @@
+C:\Users\emily\source\repos\GenericsChallenge\GenericsChallenge\bin\Debug\netcoreapp3.1\GenericsChallenge.exe
+C:\Users\emily\source\repos\GenericsChallenge\GenericsChallenge\bin\Debug\netcoreapp3.1\GenericsChallenge.deps.json
+C:\Users\emily\source\repos\GenericsChallenge\GenericsChallenge\bin\Debug\netcoreapp3.1\GenericsChallenge.runtimeconfig.json
+C:\Users\emily\source\repos\GenericsChallenge\GenericsChallenge\bin\Debug\netcoreapp3.1\GenericsChallenge.runtimeconfig.dev.json
+C:\Users\emily\source\repos\GenericsChallenge\GenericsChallenge\bin\Debug\netcoreapp3.1\GenericsChallenge.dll
+C:\Users\emily\source\repos\GenericsChallenge\GenericsChallenge\bin\Debug\netcoreapp3.1\GenericsChallenge.pdb
+C:\Users\emily\source\repos\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp3.1\GenericsChallenge.csprojAssemblyReference.cache
+C:\Users\emily\source\repos\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp3.1\GenericsChallenge.AssemblyInfoInputs.cache
+C:\Users\emily\source\repos\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp3.1\GenericsChallenge.AssemblyInfo.cs
+C:\Users\emily\source\repos\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp3.1\GenericsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\emily\source\repos\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp3.1\GenericsChallenge.dll
+C:\Users\emily\source\repos\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp3.1\GenericsChallenge.pdb
+C:\Users\emily\source\repos\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp3.1\GenericsChallenge.genruntimeconfig.cache
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\GenericsChallenge\GenericsChallenge\bin\Debug\netcoreapp3.1\GenericsChallenge.exe
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\GenericsChallenge\GenericsChallenge\bin\Debug\netcoreapp3.1\GenericsChallenge.deps.json
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\GenericsChallenge\GenericsChallenge\bin\Debug\netcoreapp3.1\GenericsChallenge.runtimeconfig.json
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\GenericsChallenge\GenericsChallenge\bin\Debug\netcoreapp3.1\GenericsChallenge.runtimeconfig.dev.json
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\GenericsChallenge\GenericsChallenge\bin\Debug\netcoreapp3.1\GenericsChallenge.dll
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\GenericsChallenge\GenericsChallenge\bin\Debug\netcoreapp3.1\GenericsChallenge.pdb
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp3.1\GenericsChallenge.csproj.AssemblyReference.cache
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp3.1\GenericsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp3.1\GenericsChallenge.AssemblyInfoInputs.cache
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp3.1\GenericsChallenge.AssemblyInfo.cs
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp3.1\GenericsChallenge.csproj.CoreCompileInputs.cache
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp3.1\GenericsChallenge.dll
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp3.1\GenericsChallenge.pdb
+C:\tmpsavingbeforewindowreboot\Final_Folder\School_Work\Past_Classes\C# Programming Advanced Obj Oriented\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp3.1\GenericsChallenge.genruntimeconfig.cache
