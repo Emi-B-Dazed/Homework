@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "S3U6cZYtKpNk1B/ADF5kIF7qaXzVqfHItp/Ieg/k5Lw9DEBYx7aDc9rYQFSUDNk61WZID+linC1flvu+wjIR5A==",
+  "success": true,
+  "projectFilePath": "C:\\tmpsavingbeforewindowreboot\\Final_Folder\\School_Work\\Past_Classes\\C# Programming Advanced Obj Oriented\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emily\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
+    "C:\\Users\\emily\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\emily\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\emily\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
