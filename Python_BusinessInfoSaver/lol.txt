@@ -1,0 +1,15 @@
+Add Jane
+phone: 555-555-5555
+add Bob
+company: TBOT
+add Joe
+phone: 333-333-3333
+
+email: Joe.go@yahoo.com
+remove Bob
+add Jake
+phone: 888-888-8888
+email:
+company: Apple
+add Go
+list
