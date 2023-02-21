@@ -1,0 +1,36 @@
+SELECT DISTINCT
+	t.tr_title,
+	pe.person
+	
+FROM position p, people pe, tracks t 
+
+WHERE
+	#RESTRICTIONS
+	YEAR(p.po_date) = 1969
+	AND MONTH(p.po_date) = 7
+	AND p.po_pos <= 10
+	
+	#ASSOCIATIONS
+	AND t.tr_artist_id = pe.p_id
+	AND t.tr_id = p.po_track_id
+	
+
+
+
+GROUP BY t.tr_title
+
+ORDER BY pe.person
+
+
+
+
+;
+
+
+
+#7) Which DISTINCT songs made the chart top 10 in July of 
+#1969? (Note: we are looking for the position(s) <= 10 
+#during that July time period; this is NOT the same as 
+#Highest Position<=10... the highest may have happened 
+#outside of July!) It should be 14 rows of unique songs. 
+#Show title and artist, ordered by artist.

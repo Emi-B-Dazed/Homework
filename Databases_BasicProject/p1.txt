@@ -1,0 +1,28 @@
+SELECT 
+	#SHOW FIELDS
+	p.po_pos, 
+	t.tr_title,
+	peep.person,
+	t.tr_dateentered
+
+#FROM TABLES
+FROM position p, tracks t, people peep
+
+WHERE
+	#RESTRICTIONS
+	p.po_date = '1968-09-07'
+	
+	#ASSOCIATIONS
+	AND	p.po_track_id = t.tr_id
+	AND	t.tr_artist_id = peep.p_id
+
+ORDER BY p.po_pos ASC
+
+
+
+;
+
+
+
+#1) Show the entire 100 entries in the chart for position date September 7, 1968. The resulting
+#table should have columns: Position, Title, Artist, DateEntered, ordered by position. (100 rows)

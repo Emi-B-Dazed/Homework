@@ -1,0 +1,33 @@
+SELECT
+	pe.person,
+	t.tr_title,
+	p.po_pos,
+	p.po_date
+
+	
+FROM position p, tracks t, people pe
+
+WHERE
+	#RESTRICTIONS
+	t.tr_year= 1969
+	AND	p.po_pos = 1
+	
+	#ASSOCIATIONS
+	AND	t.tr_artist_id = pe.p_id
+	AND	t.tr_id = p.po_track_id
+
+GROUP BY t.tr_title
+
+ORDER BY p.po_date ASC
+
+
+
+;
+
+
+
+
+#4) What artists hit 1 in 1969, based only on the track year column, 
+#rather than the individual position dates? Show artist, title, 
+#date peaked, highest position (should be ‘1'), order by DATE
+#PEAKED. 16 rows.

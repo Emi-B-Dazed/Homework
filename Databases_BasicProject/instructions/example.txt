@@ -1,0 +1,126 @@
+mysql> source c:\build.txt
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> desc top100;
++----------------+--------------+------+-----+---------+-------+
+| Field          | Type         | Null | Key | Default | Extra |
++----------------+--------------+------+-----+---------+-------+
+| year           | char(4)      | NO   |     | NULL    |       |
+| yearlyrank     | char(4)      | NO   |     | NULL    |       |
+| source         | char(1)      | YES  |     | NULL    |       |
+| prefix         | char(10)     | NO   | PRI | NULL    |       |
+| weeksCH        | int(11)      | NO   |     | 0       |       |
+| weeks40        | int(11)      | NO   |     | 0       |       |
+| weeks10        | int(11)      | NO   |     | 0       |       |
+| weekspeak      | int(11)      | NO   |     | 0       |       |
+| highest        | int(11)      | NO   |     | 100     |       |
+| verified       | char(1)      | YES  |     | NULL    |       |
+| artist         | varchar(200) | NO   |     | NULL    |       |
+| artistinverted | varchar(200) | NO   |     | NULL    |       |
+| tracktitle     | varchar(100) | NO   |     | NULL    |       |
+| time           | varchar(6)   | YES  |     | NULL    |       |
+| symbol         | varchar(6)   | YES  |     | NULL    |       |
+| label          | varchar(30)  | YES  |     | NULL    |       |
+| labnum         | varchar(10)  | YES  |     | NULL    |       |
+| genre          | varchar(20)  | YES  |     | NULL    |       |
+| comment        | varchar(250) | YES  |     | NULL    |       |
+| bpm            | int(11)      | YES  |     | NULL    |       |
+| writtenby1     | varchar(100) | YES  |     | NULL    |       |
+| writtenby2     | varchar(100) | YES  |     | NULL    |       |
+| writtenby3     | varchar(100) | YES  |     | NULL    |       |
+| writtenby4     | varchar(100) | YES  |     | NULL    |       |
+| writtenby5     | varchar(100) | YES  |     | NULL    |       |
+| writtenby6     | varchar(100) | YES  |     | NULL    |       |
+| writtenby7     | varchar(100) | YES  |     | NULL    |       |
+| writtenby8     | varchar(100) | YES  |     | NULL    |       |
+| dateentered    | date         | NO   |     | NULL    |       |
+| datepeaked     | date         | NO   |     | NULL    |       |
+| week1          | int(11)      | YES  |     | 0       |       |
+| week2          | int(11)      | YES  |     | 0       |       |
+| week3          | int(11)      | YES  |     | 0       |       |
+| week4          | int(11)      | YES  |     | 0       |       |
+| week5          | int(11)      | YES  |     | 0       |       |
+| week6          | int(11)      | YES  |     | 0       |       |
+| week7          | int(11)      | YES  |     | 0       |       |
+| week8          | int(11)      | YES  |     | 0       |       |
+| week9          | int(11)      | YES  |     | 0       |       |
+| week10         | int(11)      | YES  |     | 0       |       |
+| week11         | int(11)      | YES  |     | 0       |       |
+| week12         | int(11)      | YES  |     | 0       |       |
+| week13         | int(11)      | YES  |     | 0       |       |
+| week14         | int(11)      | YES  |     | 0       |       |
+| week15         | int(11)      | YES  |     | 0       |       |
+| week16         | int(11)      | YES  |     | 0       |       |
+| week17         | int(11)      | YES  |     | 0       |       |
+| week18         | int(11)      | YES  |     | 0       |       |
+| week19         | int(11)      | YES  |     | 0       |       |
+| week20         | int(11)      | YES  |     | 0       |       |
+| week21         | int(11)      | YES  |     | 0       |       |
+| week22         | int(11)      | YES  |     | 0       |       |
+| week23         | int(11)      | YES  |     | 0       |       |
+| week24         | int(11)      | YES  |     | 0       |       |
+| week25         | int(11)      | YES  |     | 0       |       |
+| week26         | int(11)      | YES  |     | 0       |       |
+| week27         | int(11)      | YES  |     | 0       |       |
+| week28         | int(11)      | YES  |     | 0       |       |
+| week29         | int(11)      | YES  |     | 0       |       |
+| week30         | int(11)      | YES  |     | 0       |       |
+| week31         | int(11)      | YES  |     | 0       |       |
+| week32         | int(11)      | YES  |     | 0       |       |
+| week33         | int(11)      | YES  |     | 0       |       |
+| week34         | int(11)      | YES  |     | 0       |       |
+| week35         | int(11)      | YES  |     | 0       |       |
+| week36         | int(11)      | YES  |     | 0       |       |
+| week37         | int(11)      | YES  |     | 0       |       |
+| week38         | int(11)      | YES  |     | 0       |       |
+| week39         | int(11)      | YES  |     | 0       |       |
+| week40         | int(11)      | YES  |     | 0       |       |
+| week41         | int(11)      | YES  |     | 0       |       |
+| week42         | int(11)      | YES  |     | 0       |       |
+| week43         | int(11)      | YES  |     | 0       |       |
+| week44         | int(11)      | YES  |     | 0       |       |
+| week45         | int(11)      | YES  |     | 0       |       |
+| week46         | int(11)      | YES  |     | 0       |       |
+| week47         | int(11)      | YES  |     | 0       |       |
+| week48         | int(11)      | YES  |     | 0       |       |
+| week49         | int(11)      | YES  |     | 0       |       |
+| week50         | int(11)      | YES  |     | 0       |       |
+| week51         | int(11)      | YES  |     | 0       |       |
+| week52         | int(11)      | YES  |     | 0       |       |
+| week53         | int(11)      | YES  |     | 0       |       |
+| week54         | int(11)      | YES  |     | 0       |       |
+| week55         | int(11)      | YES  |     | 0       |       |
+| week56         | int(11)      | YES  |     | 0       |       |
+| week57         | int(11)      | YES  |     | 0       |       |
+| week58         | int(11)      | YES  |     | 0       |       |
+| week59         | int(11)      | YES  |     | 0       |       |
+| week60         | int(11)      | YES  |     | 0       |       |
+| week61         | int(11)      | YES  |     | 0       |       |
+| week62         | int(11)      | YES  |     | 0       |       |
+| week63         | int(11)      | YES  |     | 0       |       |
+| week64         | int(11)      | YES  |     | 0       |       |
+| week65         | int(11)      | YES  |     | 0       |       |
+| week66         | int(11)      | YES  |     | 0       |       |
+| week67         | int(11)      | YES  |     | 0       |       |
+| week68         | int(11)      | YES  |     | 0       |       |
+| week69         | int(11)      | YES  |     | 0       |       |
+| week70         | int(11)      | YES  |     | 0       |       |
+| week71         | int(11)      | YES  |     | 0       |       |
+| week72         | int(11)      | YES  |     | 0       |       |
+| week73         | int(11)      | YES  |     | 0       |       |
+| week74         | int(11)      | YES  |     | 0       |       |
+| week75         | int(11)      | YES  |     | 0       |       |
+| week76         | int(11)      | YES  |     | 0       |       |
++----------------+--------------+------+-----+---------+-------+
+106 rows in set (0.00 sec)
+
+mysql> source c:\load.txt
+Query OK, 7770 rows affected, 65535 warnings (0.81 sec)
+Records: 7770  Deleted: 0  Skipped: 0  Warnings: 270
+
+Warning (Code 1366): Incorrect integer value: '' for column 'week24' at row 1
+Warning (Code 1366): Incorrect integer value: '' for column 'week25' at row 1
+Warning (Code 1366): Incorrect integer value: '' for column 'week26' at row 1
+Warning (Code 1366): Incorrect integer value: '' for column 'week27' at row 1
+
+mysql> notee

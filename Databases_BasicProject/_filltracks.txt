@@ -1,0 +1,45 @@
+create table tracks
+(
+tr_id int primary key auto_increment not null,
+tr_title varchar(100) not null,
+tr_year char(4) not null,
+tr_source char(1),
+tr_yearlyrank char(4) not null,
+tr_weeksCH int not null default 0,
+tr_weeks40 int not null default 0,
+tr_weeks10 int not null default 0,
+tr_weekspeak int not null default 0,
+tr_highest int not null default 100,
+tr_time varchar(6),
+tr_symbol varchar(6),
+tr_labnum varchar(10),
+tr_comment varchar(250),
+tr_bpm int,
+tr_dateentered date not null,
+tr_datepeaked date not null,
+tr_label_id int,
+tr_genre_id int,
+tr_artist_id int,
+
+CONSTRAINT tr_label_id_fk	FOREIGN KEY (tr_label_id) REFERENCES	label(la_id),
+CONSTRAINT tr_genre_id_fk	FOREIGN KEY (tr_genre_id) REFERENCES	genre(ge_id),
+CONSTRAINT tr_artist_id_fk	FOREIGN KEY (tr_artist_id) REFERENCES	people(p_id)
+
+);
+
+insert into tracks (tr_title, tr_year, tr_yearlyrank, tr_source,
+        tr_weeksCH, tr_weeks40, tr_weeks10, tr_weekspeak, tr_highest,
+        tr_artist_id, tr_time, tr_symbol, tr_label_id, tr_labnum, tr_genre_id,
+        tr_comment, tr_bpm, tr_dateentered, tr_datepeaked)
+select 
+                    tracktitle, year, yearlyrank, source, 
+        weeksCH, weeks40, weeks10, weekspeak, highest,
+        p_id, time, symbol, la_id, labnum, ge_id,
+        comment, bpm, dateentered, datepeaked
+from top100, people, label, genre
+where
+     (top100.artist = people.person) and
+     (top100.genre = genre.ge_genre) and
+     (top100.label = label.la_label)
+	 
+;

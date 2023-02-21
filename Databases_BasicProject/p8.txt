@@ -1,0 +1,32 @@
+SELECT 
+	t.tr_title,
+	pe.person
+
+FROM position p, tracks t, people pe
+
+WHERE 
+	#RESTRICTIONS
+	p.po_date = '1964-04-04'
+	AND p.po_pos <= 40
+	
+	#ASSOCIATIONS
+	AND t.tr_id = p.po_track_id
+	AND t.tr_artist_id = pe.p_id
+
+
+
+
+
+
+ORDER BY p.po_pos
+
+
+
+;
+
+
+#9) Show the top 40 songs for the week of 1964-04-04, showing 
+#in position order (1-40) the titles and artists. Do you 
+#notice anything unusual in the result? (40 rows)
+
+

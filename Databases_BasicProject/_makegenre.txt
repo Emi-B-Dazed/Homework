@@ -1,0 +1,10 @@
+create table genre
+(
+ge_id int primary key auto_increment not null,
+ge_genre varchar(20)
+);
+
+insert into genre (ge_genre)
+select distinct genre from top100 where genre is not null
+
+;

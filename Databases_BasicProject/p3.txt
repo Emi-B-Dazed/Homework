@@ -1,0 +1,33 @@
+SELECT
+	#SHOW FIELDS
+	pe.person,
+	t.tr_title,
+	p.po_pos
+	
+#FROM TABLES
+FROM position p, tracks t, wrote w, people pe
+
+WHERE
+	#RESTRICTIONS
+	t.tr_year = 1972
+	AND p.po_pos = 1
+	
+	#ASSOCIATIONS
+	AND	t.tr_id = p.po_track_id
+	AND	t.tr_id = w.wr_track_id
+	AND w.wr_p_id = pe.p_id
+
+GROUP BY pe.person
+
+ORDER BY pe.person ASC
+
+
+;
+
+
+
+
+#What composers had their song reach number 1 for track year 
+#(not position year) 1972? Order by composer name, showing 
+#composer name, song title, highest position (should all be
+#1). 31 rows

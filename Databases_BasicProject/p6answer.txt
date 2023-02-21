@@ -1,0 +1,688 @@
+Slippin' Into Darkness
+Nice To Be With You
+
+mysql> source C:\Users\emily\Documents\databases\Project\p6.txt
++--------------------------------------------------------------------------------+--------------+
+| tr_title                                                                       | timesonchart |
++--------------------------------------------------------------------------------+--------------+
+| Slippin' Into Darkness                                                         |           22 |
+| Nice To Be With You                                                            |           22 |
+| I Gotcha                                                                       |           21 |
+| Starting All Over Again                                                        |           20 |
+| Beautiful Sunday                                                               |           20 |
+| The Candy Man                                                                  |           20 |
+| Daddy Don't You Walk So Fast                                                   |           20 |
+| How Do You Do?                                                                 |           19 |
+| Garden Party                                                                   |           19 |
+| Let's Stay Together                                                            |           19 |
+| Lean On Me                                                                     |           19 |
+| I Am Woman                                                                     |           19 |
+| Everybody Plays The Fool                                                       |           18 |
+| Nights In White Satin                                                          |           18 |
+| Alone Again (Naturally)                                                        |           18 |
+| Go All The Way                                                                 |           18 |
+| The First Time Ever I Saw Your Face                                            |           18 |
+| Baby Don't Get Hooked On Me                                                    |           18 |
+| Popcorn                                                                        |           18 |
+| Without You                                                                    |           17 |
+| Baby Let Me Take You (In My Arms)                                              |           17 |
+| I Can See Clearly Now                                                          |           17 |
+| My Ding-A-Ling                                                                 |           17 |
+| Outa-Space                                                                     |           17 |
+| Papa Was A Rollin' Stone                                                       |           17 |
+| Summer Breeze                                                                  |           17 |
+| The Lion Sleeps Tonight (Wimoweh) (Mbube)                                      |           17 |
+| Brandy (You're A Fine Girl)                                                    |           16 |
+| Ben                                                                            |           16 |
+| Taxi                                                                           |           16 |
+| Betcha By Golly, Wow                                                           |           16 |
+| Every Day Of My Life                                                           |           16 |
+| The City Of New Orleans                                                        |           16 |
+| Happiest Girl In The Whole USA                                                 |           16 |
+| (Last Night) I Didn't Get To Sleep At All                                      |           16 |
+| I Believe In Music                                                             |           16 |
+| (If Loving You Is Wrong) I Don't Want To Be Right                              |           16 |
+| Freddie's Dead (Theme From Superfly)                                           |           16 |
+| Hold Your Head Up                                                              |           15 |
+| Long Cool Woman (In A Black Dress)                                             |           15 |
+| Bang A Gong (Get It On)                                                        |           15 |
+| We're Free                                                                     |           15 |
+| Motorcycle Mama                                                                |           15 |
+| Pop That Thang                                                                 |           15 |
+| Jungle Fever                                                                   |           15 |
+| Power Of Love                                                                  |           15 |
+| Life And Breath                                                                |           15 |
+| Precious And Few                                                               |           15 |
+| I'll Take You There                                                            |           15 |
+| Sylvia's Mother                                                                |           15 |
+| I'll Be Around                                                                 |           15 |
+| Layla                                                                          |           15 |
+| Oh Girl                                                                        |           15 |
+| If I Could Reach You                                                           |           15 |
+| Rocket Man                                                                     |           15 |
+| Back Stabbers                                                                  |           15 |
+| Ain't Understanding Mellow                                                     |           15 |
+| Burning Love                                                                   |           15 |
+| Gone                                                                           |           15 |
+| Coconut                                                                        |           14 |
+| Too Late To Turn Back Now                                                      |           14 |
+| American Pie (Parts 1 and 2)                                                   |           14 |
+| Don't Say You Don't Remember                                                   |           14 |
+| I've Been Lonely For So Long                                                   |           14 |
+| I'd Like To Teach The World To Sing (In Perfect Harmony)                       |           14 |
+| Ask Me What You Want                                                           |           14 |
+| Sealed With A Kiss                                                             |           14 |
+| Heart Of Gold                                                                  |           14 |
+| Funny Face                                                                     |           14 |
+| Morning Has Broken                                                             |           14 |
+| Get On The Good Foot (Part 1)                                                  |           14 |
+| Down By The Lazy River                                                         |           14 |
+| A Horse With No Name                                                           |           14 |
+| Day By Day                                                                     |           14 |
+| Walking In The Rain With The One I Love                                        |           14 |
+| I'd Love You To Want Me                                                        |           14 |
+| Joy                                                                            |           14 |
+| Hot Rod Lincoln                                                                |           14 |
+| If You Don't Know Me By Now                                                    |           14 |
+| Crazy Mama                                                                     |           14 |
+| I Saw The Light                                                                |           14 |
+| Rockin' Robin                                                                  |           13 |
+| A Cowboys Work Is Never Done                                                   |           13 |
+| The Way Of Love                                                                |           13 |
+| Rockin' Pneumonia - Boogie Woogie Flu                                          |           13 |
+| Conquistador                                                                   |           13 |
+| Everything I Own                                                               |           13 |
+| You Want It, You Got It                                                        |           13 |
+| Good Time Charlie's Got The Blues                                              |           13 |
+| Geronimo's Cadillac                                                            |           13 |
+| Let It Rain                                                                    |           13 |
+| Rock 'N Roll Soul                                                              |           13 |
+| Speak To The Sky                                                               |           13 |
+| Listen To The Music                                                            |           13 |
+| School's Out                                                                   |           13 |
+| Thunder And Lightning                                                          |           13 |
+| Roundabout                                                                     |           13 |
+| Where Is The Love                                                              |           13 |
+| In The Rain                                                                    |           13 |
+| You Don't Mess Around With Jim                                                 |           13 |
+| You Are The One                                                                |           13 |
+| Witchy Woman                                                                   |           13 |
+| My Guy                                                                         |           13 |
+| Mother And Child Reunion                                                       |           13 |
+| Song Sung Blue                                                                 |           13 |
+| Floy Joy                                                                       |           12 |
+| Hurting Each Other                                                             |           12 |
+| I'm Coming Home                                                                |           12 |
+| Sunny Days                                                                     |           12 |
+| I'm Stone In Love With You                                                     |           12 |
+| Castles In The Air                                                             |           12 |
+| Vincent                                                                        |           12 |
+| We've Got To Get It On Again                                                   |           12 |
+| Troglodyte (Cave Man)                                                          |           12 |
+| You're A Lady                                                                  |           12 |
+| Rock Me On The Water                                                           |           12 |
+| Small Beginnings                                                               |           12 |
+| Puppy Love                                                                     |           12 |
+| Easy Livin'                                                                    |           12 |
+| You're Still A Young Man                                                       |           12 |
+| Suavecito                                                                      |           12 |
+| Saturday In The Park                                                           |           12 |
+| Run To Me                                                                      |           12 |
+| Look What You Done For Me                                                      |           12 |
+| I'm Still In Love With You                                                     |           12 |
+| Walk In The Night                                                              |           12 |
+| Operator (That's Not The Way It Feels)                                         |           12 |
+| Taurus                                                                         |           12 |
+| Use Me                                                                         |           12 |
+| Woman Don't Go Astray                                                          |           12 |
+| Doctor My Eyes                                                                 |           12 |
+| Lonely Boy                                                                     |           12 |
+| Why                                                                            |           12 |
+| Loving You Just Crossed My Mind                                                |           12 |
+| Sweet Inspiration & Where You Lead (Live)                                      |           12 |
+| Day Dreaming                                                                   |           12 |
+| To Get To You                                                                  |           12 |
+| Tight Rope                                                                     |           12 |
+| No                                                                             |           12 |
+| Something's Wrong With Me                                                      |           12 |
+| The Witch Queen Of New Orleans                                                 |           11 |
+| That's How Love Goes                                                           |           11 |
+| I Wanna Be Where You Are                                                       |           11 |
+| Don't Ever Be Lonely (A Poor Little Fool Like Me)                              |           11 |
+| Diary                                                                          |           11 |
+| From The Beginning                                                             |           11 |
+| People Make The World Go Round                                                 |           11 |
+| Son Of My Father                                                               |           11 |
+| Beautiful                                                                      |           11 |
+| Rock And Roll Lullaby                                                          |           11 |
+| Superwoman (Where Were You When I Needed You)                                  |           11 |
+| In The Ghetto                                                                  |           11 |
+| Hearsay                                                                        |           11 |
+| Now Run And Tell That                                                          |           11 |
+| Don't Do It                                                                    |           11 |
+| Footstompin Music                                                              |           11 |
+| Crazy Horses                                                                   |           11 |
+| Ventura Highway                                                                |           11 |
+| So Long Dixie                                                                  |           11 |
+| All The Young Dudes                                                            |           11 |
+| Black Dog                                                                      |           11 |
+| You Ought To Be With Me                                                        |           11 |
+| American City Suite (Sweet City Song/All Around the Town/A Friend Is Dying)    |           11 |
+| Never Been To Spain                                                            |           11 |
+| Black & White                                                                  |           11 |
+| Rock And Roll (Part 2)                                                         |           11 |
+| Zing Went The Strings Of My Heart                                              |           11 |
+| Rip Off                                                                        |           11 |
+| Everything Good Is Bad                                                         |           11 |
+| The Day I Found Myself                                                         |           11 |
+| You Could Have Been A Lady                                                     |           11 |
+| Run Run Run                                                                    |           11 |
+| Take It Easy                                                                   |           11 |
+| After Midnight                                                                 |           11 |
+| What Am I Crying For?                                                          |           11 |
+| Love Theme From The Godfather (Speak Softly Love)                              |           11 |
+| Me And Julio Down By The Schoolyard                                            |           11 |
+| Guess Who                                                                      |           11 |
+| Play Me                                                                        |           11 |
+| Do Your Thing                                                                  |           11 |
+| It Never Rains In Southern California                                          |           11 |
+| A Piece Of Paper                                                               |           11 |
+| Cheer                                                                          |           11 |
+| Corner Of The Sky                                                              |           10 |
+| Lookin' Through The Windows                                                    |           10 |
+| When You Say Love                                                              |           10 |
+| Space Man                                                                      |           10 |
+| It's Going To Take Some Time                                                   |           10 |
+| Goodbye To Love                                                                |           10 |
+| Legend In Your Own Time                                                        |           10 |
+| Anticipation                                                                   |           10 |
+| The Guitar Man                                                                 |           10 |
+| Baby Blue                                                                      |           10 |
+| Back Off Boogaloo                                                              |           10 |
+| Day After Day                                                                  |           10 |
+| Baby Sitter                                                                    |           10 |
+| My Man, A Sweet Man                                                            |           10 |
+| Tumbling Dice                                                                  |           10 |
+| Clair                                                                          |           10 |
+| Chantilly Lace                                                                 |           10 |
+| Runnin' Away                                                                   |           10 |
+| Kiss An Angel Good Mornin'                                                     |           10 |
+| That's The Way I Feel About 'Cha                                               |           10 |
+| We've Come Too Far To End It Now                                               |           10 |
+| Sweet Seasons                                                                  |           10 |
+| That's The Way God Planned It                                                  |           10 |
+| We Can Make It Together                                                        |           10 |
+| You Wear It Well                                                               |           10 |
+| Iron Man                                                                       |           10 |
+| Be My Lover                                                                    |           10 |
+| Stay With Me                                                                   |           10 |
+| I Need You                                                                     |           10 |
+| Dialogue (Part I & II)                                                         |           10 |
+| Join Together                                                                  |           10 |
+| Softly Whispering I Love You                                                   |           10 |
+| In A Broken Dream                                                              |           10 |
+| Glory Bound                                                                    |           10 |
+| Together Let's Find Love                                                       |           10 |
+| Breaking Up Is Hard To Do                                                      |           10 |
+| Honky Cat                                                                      |           10 |
+| The Nickel Song                                                                |           10 |
+| Why Can't We Be Lovers                                                         |           10 |
+| Isn't Life Strange                                                             |           10 |
+| Dancing In The Moonlight                                                       |           10 |
+| The Wedding Song (There Is Love)                                               |           10 |
+| Fire And Water                                                                 |           10 |
+| Long-Haired Lover From Liverpool                                               |           10 |
+| Keep Playin' That Rock N Roll                                                  |            9 |
+| Long Dark Road                                                                 |            9 |
+| (It's The Way) Nature Planned It                                               |            9 |
+| Automatically Sunshine                                                         |            9 |
+| Little Bitty Pretty One                                                        |            9 |
+| Jump Into The Fire                                                             |            9 |
+| Francene                                                                       |            9 |
+| I'll Make You Music                                                            |            9 |
+| Feeling Alright                                                                |            9 |
+| Clean Up Woman                                                                 |            9 |
+| Lay-Away                                                                       |            9 |
+| I Had It All The Time                                                          |            9 |
+| Brand New Key                                                                  |            9 |
+| I Can't Help Myself (Sugar Pie, Honey Bunch)                                   |            9 |
+| Love Gonna Pack Up (And Walk Out)                                              |            9 |
+| Living In The Past                                                             |            9 |
+| Old Man                                                                        |            9 |
+| Amazing Grace                                                                  |            9 |
+| Woman's Gotta Have It                                                          |            9 |
+| Diamonds Are Forever                                                           |            9 |
+| Sweet Caroline (Good Times Never Seemed So Good)                               |            9 |
+| Do The Funky Penguin (Part 1)                                                  |            9 |
+| Waking Up Alone                                                                |            9 |
+| Poor Boy                                                                       |            9 |
+| Man Sized Job                                                                  |            9 |
+| If I Were A Carpenter                                                          |            9 |
+| Vanilla Olay                                                                   |            9 |
+| Hold Her Tight                                                                 |            9 |
+| Too Young                                                                      |            9 |
+| America                                                                        |            9 |
+| No One To Depend On                                                            |            9 |
+| Starman                                                                        |            9 |
+| Toast To The Fool                                                              |            9 |
+| Son Of Shaft                                                                   |            9 |
+| Show Me How                                                                    |            9 |
+| The Coldest Days Of My Life (Part 1)                                           |            9 |
+| The Runway                                                                     |            9 |
+| The Family Of Man                                                              |            9 |
+| Could It Be Forever                                                            |            9 |
+| I Didn't Know I Loved You (Till I Saw You Rock And Roll)                       |            9 |
+| How Can I Be Sure                                                              |            9 |
+| A Simple Man                                                                   |            9 |
+| I Miss You (Part 1)                                                            |            9 |
+| Me And Mrs. Jones                                                              |            9 |
+| Ring The Living Bell                                                           |            9 |
+| Your Precious Love                                                             |            9 |
+| Victim Of A Foolish Heart                                                      |            9 |
+| If You Leave Me Tonight I'll Cry                                               |            9 |
+| Jubilation                                                                     |            9 |
+| Theme From "The Men"                                                           |            9 |
+| Put It Where You Want It                                                       |            9 |
+| Love Me, Love Me Love                                                          |            9 |
+| Sunshine                                                                       |            9 |
+| Until It's Time For You To Go                                                  |            9 |
+| (Oh Lord Won't You Buy Me A) Mercedes Benz                                     |            9 |
+| Immigration Man                                                                |            9 |
+| In Heaven There Is No Beer                                                     |            9 |
+| Love Theme From "The Godfather"                                                |            9 |
+| Butterfly                                                                      |            9 |
+| Your Wonderful, Sweet Sweet Love                                               |            8 |
+| Don't Hide Your Love                                                           |            8 |
+| Living In A House Divided                                                      |            8 |
+| Afro-Strut                                                                     |            8 |
+| Eddie's Love                                                                   |            8 |
+| If You Let Me                                                                  |            8 |
+| Hot 'N' Nasty                                                                  |            8 |
+| Sweet Surrender                                                                |            8 |
+| Give Ireland Back To The Irish                                                 |            8 |
+| Work To Do                                                                     |            8 |
+| Good Time Sally                                                                |            8 |
+| Pool Of Bad Luck                                                               |            8 |
+| Drowning In The Sea Of Love                                                    |            8 |
+| Happy                                                                          |            8 |
+| You Are Everything                                                             |            8 |
+| Midnight Rider                                                                 |            8 |
+| Money Runner                                                                   |            8 |
+| Alabama Wild Man                                                               |            8 |
+| In Time                                                                        |            8 |
+| Jambalaya (On The Bayou)                                                       |            8 |
+| Smoke Gets In Your Eyes                                                        |            8 |
+| In The Quiet Morning                                                           |            8 |
+| Slaughter                                                                      |            8 |
+| You Said A Bad Word                                                            |            8 |
+| Goin' Down (On The Road To L.A.)                                               |            8 |
+| We're On Our Way                                                               |            8 |
+| Convention 72                                                                  |            8 |
+| Honky Tonk (Part 1)                                                            |            8 |
+| Gimme Some More                                                                |            8 |
+| Colorado                                                                       |            8 |
+| Take A Look Around                                                             |            8 |
+| Down To The Nightclub                                                          |            8 |
+| Elected                                                                        |            8 |
+| Your Mama Don't Dance                                                          |            8 |
+| Powder Blue Mercedes Queen                                                     |            8 |
+| My World                                                                       |            8 |
+| Keeper Of The Castle                                                           |            8 |
+| Help Me Make It Through The Night                                              |            8 |
+| Make Me The Woman That You Go Home To                                          |            8 |
+| Rock Me Baby                                                                   |            8 |
+| Levon                                                                          |            8 |
+| Someday Never Comes                                                            |            8 |
+| If You Can Beat Me Rockin' (You Can Have My Chair)                             |            8 |
+| Scorpio                                                                        |            8 |
+| 992 Arguments                                                                  |            8 |
+| Lies                                                                           |            8 |
+| Special Someone                                                                |            8 |
+| Josie                                                                          |            8 |
+| Tupelo Honey                                                                   |            8 |
+| Funk Factory                                                                   |            8 |
+| All The King's Horses                                                          |            8 |
+| Mister Can't You See                                                           |            8 |
+| Walk On Water                                                                  |            8 |
+| Can't You Hear The Song?                                                       |            8 |
+| You Turn Me On, I'm A Radio                                                    |            8 |
+| Brian's Song                                                                   |            8 |
+| Mr. Penguin (Part 1)                                                           |            8 |
+| I Guess I'll Miss The Man                                                      |            7 |
+| Sugar Daddy                                                                    |            7 |
+| Brown Eyed Girl                                                                |            7 |
+| Heartbroken Bopper                                                             |            7 |
+| The World Is A Ghetto                                                          |            7 |
+| Standing In For Jody                                                           |            7 |
+| Mama Weer All Crazee Now                                                       |            7 |
+| Living Without You                                                             |            7 |
+| Pain (Part 1)                                                                  |            7 |
+| Smilin'                                                                        |            7 |
+| The Young New Mexican Puppeteer                                                |            7 |
+| Superstition                                                                   |            7 |
+| This World                                                                     |            7 |
+| Sitting                                                                        |            7 |
+| I Got A Bag Of My Own                                                          |            7 |
+| There It Is (Part 1)                                                           |            7 |
+| King Heroin                                                                    |            7 |
+| Talking Loud And Saying Nothing (Part 1)                                       |            7 |
+| Think (About It)                                                               |            7 |
+| You Can Do Magic                                                               |            7 |
+| Angel                                                                          |            7 |
+| Under My Wheels                                                                |            7 |
+| For Emily, Whenever I May Find Her (Live)                                      |            7 |
+| The Harder I Try (The Bluer I Get)                                             |            7 |
+| Rock And Roll                                                                  |            7 |
+| And You And I (Part 2)                                                         |            7 |
+| Alive                                                                          |            7 |
+| Pieces Of April                                                                |            7 |
+| Daisy Mae                                                                      |            7 |
+| Guilty                                                                         |            7 |
+| Am I Losing You                                                                |            7 |
+| Do It Again                                                                    |            7 |
+| Men Of Learning                                                                |            7 |
+| Tiny Dancer                                                                    |            7 |
+| Beat Me Daddy Eight To The Bar                                                 |            7 |
+| I Just Want To Make Love To You (Studio)                                       |            7 |
+| Little Woman Love                                                              |            7 |
+| Mary Had A Little Lamb                                                         |            7 |
+| Changes                                                                        |            7 |
+| I Will Never Pass This Way Again                                               |            7 |
+| One Night Affair                                                               |            7 |
+| Kate                                                                           |            7 |
+| Delta Dawn                                                                     |            7 |
+| Duncan                                                                         |            7 |
+| It Doesn't Matter                                                              |            7 |
+| Superfly                                                                       |            7 |
+| I've Got To Have You                                                           |            7 |
+| Down By The River                                                              |            7 |
+| I'm Movin' On                                                                  |            7 |
+| Louisianna                                                                     |            7 |
+| Guns, Guns, Guns                                                               |            6 |
+| Once You Understand                                                            |            6 |
+| Sunday Morning Sunshine                                                        |            6 |
+| Nutrocker                                                                      |            6 |
+| Family Affair                                                                  |            6 |
+| War Song                                                                       |            6 |
+| Rocky Mountain High                                                            |            6 |
+| An American Trilogy (Dixie/Battle Hymn Of the Republic/All My Trials)          |            6 |
+| That's What Friends Are For                                                    |            6 |
+| Lovin' You, Lovin' Me                                                          |            6 |
+| That's What Love Will Make You Do                                              |            6 |
+| Ajax Airlines                                                                  |            6 |
+| Been To Canaan                                                                 |            6 |
+| White Lies                                                                     |            6 |
+| Why Can't We Live Together                                                     |            6 |
+| I Wanna Be With You                                                            |            6 |
+| Handbags And Gladrags                                                          |            6 |
+| Carry Me, Carrie                                                               |            6 |
+| Country Wine                                                                   |            6 |
+| Lookin' For A Love                                                             |            6 |
+| Way Back Home                                                                  |            6 |
+| It's One Of Those Nights (Yes Love)                                            |            6 |
+| Best Thing                                                                     |            6 |
+| Jackie Wilson Said (I'm In Heaven When You Smile)                              |            6 |
+| Everybody Loves A Love Song                                                    |            6 |
+| Love Song                                                                      |            6 |
+| I Got Some Help I Don't Need                                                   |            6 |
+| Look What They've Done To My Song, Ma                                          |            6 |
+| What Am I Living For                                                           |            6 |
+| Bed And Board                                                                  |            6 |
+| Questions                                                                      |            6 |
+| I'm Sorry                                                                      |            6 |
+| Five Hundred Miles                                                             |            6 |
+| Those Were The Days                                                            |            6 |
+| I Love You More Than You'll Ever Know                                          |            6 |
+| Got To Be There                                                                |            5 |
+| Telegram Sam                                                                   |            5 |
+| Do Ya                                                                          |            5 |
+| Rockin' With The King                                                          |            5 |
+| Misty Blue                                                                     |            5 |
+| You're So Vain                                                                 |            5 |
+| Circles                                                                        |            5 |
+| Dance, Dance, Dance                                                            |            5 |
+| Day And Night                                                                  |            5 |
+| What'd I Say                                                                   |            5 |
+| Hey Big Brother                                                                |            5 |
+| I Knew You When                                                                |            5 |
+| Hey Girl                                                                       |            5 |
+| Woman To Woman                                                                 |            5 |
+| Me And Bobby McGee                                                             |            5 |
+| The Man And The Woman (The Boy And The Girl)                                   |            5 |
+| A Lonely Man                                                                   |            5 |
+| Money Back Guarantee                                                           |            5 |
+| Them Changes                                                                   |            5 |
+| Evil Ways                                                                      |            5 |
+| Another Puff                                                                   |            5 |
+| With Pen In Hand                                                               |            5 |
+| Simple Song Of Freedom                                                         |            5 |
+| Reelin And Rocking (Live)                                                      |            5 |
+| You're The Man (Part 1)                                                        |            5 |
+| I Wrote A Simple Song                                                          |            5 |
+| Lady Eleanor                                                                   |            5 |
+| Open The Door (Song For Judith)                                                |            5 |
+| Everybody Knows About My Good Thing (Part 1)                                   |            5 |
+| Woman Is The Nigger Of The World                                               |            5 |
+| Separate Ways                                                                  |            5 |
+| Oh, Babe, What Would You Say                                                   |            5 |
+| Upsetter                                                                       |            5 |
+| Annabelle                                                                      |            5 |
+| What It Is                                                                     |            5 |
+| The Cover Of "Rolling Stone"                                                   |            5 |
+| Vahevala                                                                       |            5 |
+| Baby Won't You Let Me Rock 'N Roll You                                         |            5 |
+| Will You Still Love Me Tomorrow                                                |            5 |
+| Iko Iko                                                                        |            5 |
+| Move 'Em Out                                                                   |            5 |
+| The Jean Genie                                                                 |            5 |
+| Just As Long As You Need Me (Part 1)                                           |            5 |
+| I Could Never Be Happy                                                         |            5 |
+| We Need Order                                                                  |            5 |
+| Since I Fell For You                                                           |            5 |
+| One Monkey Don't Stop No Show (Part 1)                                         |            5 |
+| White Lies, Blue Eyes                                                          |            5 |
+| I'll Be Your Shelter (In Time Of Storm)                                        |            5 |
+| Trouble In My Home                                                             |            5 |
+| Cotton Jenny                                                                   |            5 |
+| The People Tree                                                                |            5 |
+| Love's Street And Fool's Road                                                  |            5 |
+| Don't Let Me Be Lonely Tonight                                                 |            5 |
+| Cry                                                                            |            5 |
+| A Sunday Kind Of Love                                                          |            5 |
+| Do What You Set Out To Do                                                      |            5 |
+| My Boy                                                                         |            5 |
+| Ain't Nobody Home                                                              |            5 |
+| Summer Sun                                                                     |            5 |
+| I Don't Need No Doctor                                                         |            5 |
+| Giving Up                                                                      |            5 |
+| I Thank You                                                                    |            5 |
+| I Can't Turn You Loose                                                         |            4 |
+| Daddy's Home                                                                   |            4 |
+| All I Ever Need Is You                                                         |            4 |
+| Sour Suite                                                                     |            4 |
+| Up In Heah                                                                     |            4 |
+| Love Jones                                                                     |            4 |
+| Suite: Man And Woman                                                           |            4 |
+| Whatever Turns You On                                                          |            4 |
+| One More Chance                                                                |            4 |
+| The Mosquito                                                                   |            4 |
+| Beg, Borrow Or Steal                                                           |            4 |
+| Knock Knock Who's There                                                        |            4 |
+| Take It Slow (Out In The Country)                                              |            4 |
+| Country Woman                                                                  |            4 |
+| Bedtime Story                                                                  |            4 |
+| School Teacher                                                                 |            4 |
+| Harry Hippie                                                                   |            4 |
+| Silly Wasn't I                                                                 |            4 |
+| After All This Time                                                            |            4 |
+| Music From Across The Way                                                      |            4 |
+| Keep On Keeping On                                                             |            4 |
+| Me And My Baby Got A Good Thing Going                                          |            4 |
+| What A Wonderful Thing We Have                                                 |            4 |
+| What Would The Children Think                                                  |            4 |
+| You Make Your Own Heaven And Hell Right Here                                   |            4 |
+| Dinah Flo                                                                      |            4 |
+| How Could I Let You Get Away                                                   |            4 |
+| Get Up And Get Down                                                            |            4 |
+| Have You Seen Her                                                              |            4 |
+| An Old Fashioned Love Song                                                     |            4 |
+| Runaway And Happy Together                                                     |            4 |
+| Cherish                                                                        |            4 |
+| Sittin' On A Time Bomb (Waitin' For The Hurt To Come)                          |            4 |
+| The Relay                                                                      |            4 |
+| If I Could See The Light                                                       |            4 |
+| Let Us Love                                                                    |            4 |
+| Bless The Beasts And The Children                                              |            4 |
+| Sweet Baby                                                                     |            4 |
+| One Way Out                                                                    |            4 |
+| Ain't Wastin' Time No More                                                     |            4 |
+| Together Alone                                                                 |            4 |
+| I Found My Dad                                                                 |            4 |
+| Pretty As You Feel                                                             |            4 |
+| Eve                                                                            |            4 |
+| Mother Nature                                                                  |            4 |
+| Ride, Sally, Ride                                                              |            4 |
+| Crocodile Rock                                                                 |            4 |
+| One Last Time                                                                  |            4 |
+| No Sad Song                                                                    |            4 |
+| Speak Softly Love                                                              |            4 |
+| I Only Have Eyes For You                                                       |            4 |
+| Didn't We                                                                      |            4 |
+| George Jackson                                                                 |            4 |
+| Wholy Holy                                                                     |            4 |
+| Oh Me Oh My (I'm A Fool For You Baby)                                          |            4 |
+| Cat's Eye In The Window                                                        |            4 |
+| Tell 'Em Willie Boy's A'Comin'                                                 |            4 |
+| Nothing To Hide                                                                |            4 |
+| Ain't That Loving You (For More Reasons Than One)                              |            4 |
+| It's Four In The Morning                                                       |            4 |
+| (Love Me) Love The Life I Lead                                                 |            4 |
+| Deteriorata                                                                    |            4 |
+| Getting It On                                                                  |            4 |
+| So Many People                                                                 |            3 |
+| A Simple Game                                                                  |            3 |
+| Hey, You Love                                                                  |            3 |
+| Ain't That Peculiar                                                            |            3 |
+| Runnin' Back To Saskatoon (Live)                                               |            3 |
+| Love Potion Number Nine                                                        |            3 |
+| Lonesome Mary                                                                  |            3 |
+| Can I Get A Witness                                                            |            3 |
+| Shake Off The Demon                                                            |            3 |
+| It's All Up To You                                                             |            3 |
+| Hi, Hi, Hi                                                                     |            3 |
+| Tell Me This Is A Dream                                                        |            3 |
+| Buzzy Brown                                                                    |            3 |
+| Fool's Paradise                                                                |            3 |
+| Amerikan Music                                                                 |            3 |
+| Turn On Your Love Light                                                        |            3 |
+| All His Children                                                               |            3 |
+| Everyday                                                                       |            3 |
+| Friends With You                                                               |            3 |
+| Too Beautiful To Last                                                          |            3 |
+| Keep On Running                                                                |            3 |
+| I Can't Stand To See You Cry                                                   |            3 |
+| Trouble Man                                                                    |            3 |
+| Satisfaction                                                                   |            3 |
+| Respect Yourself                                                               |            3 |
+| An American Trilogy (Dixie/Battle Hymn Of the Republic/All My Trials) (Medley) |            3 |
+| Taos, New Mexico                                                               |            3 |
+| Keep On Doin' What You're Doin'                                                |            3 |
+| Last Song                                                                      |            3 |
+| (I Know) I'm Losing You                                                        |            3 |
+| Jesus Is Just Alright                                                          |            3 |
+| If We Only Have Love                                                           |            3 |
+| Truckin'                                                                       |            3 |
+| Choo Choo Mama                                                                 |            3 |
+| Song Seller                                                                    |            3 |
+| Hallelujah                                                                     |            3 |
+| Behind Blue Eyes                                                               |            3 |
+| Step Out                                                                       |            3 |
+| Looking Through The Eyes Of Love                                               |            3 |
+| Vaya Con Dios                                                                  |            3 |
+| Devil You                                                                      |            3 |
+| You Were Made For Me                                                           |            3 |
+| Mendelssohn's 4th (Second Movement)                                            |            3 |
+| Carolyn                                                                        |            3 |
+| (They Long To Be) Close To You                                                 |            3 |
+| Sing A Song & Make Your Own Kind Of Music (Live)                               |            3 |
+| Rock And Roll Crazies                                                          |            3 |
+| Celebration                                                                    |            3 |
+| You Got Me Walking                                                             |            3 |
+| Sweet Sixteen                                                                  |            3 |
+| Mean Little Woman, Rosalie                                                     |            3 |
+| I Received A Letter                                                            |            3 |
+| Da Doo Ron Ron (When He Walked Me Home)                                        |            3 |
+| Bring It Home (And Give It To Me)                                              |            3 |
+| Remember (Christmas)                                                           |            2 |
+| You've Got To Take It (If You Want It)                                         |            2 |
+| I'm Never Gonna Be Alone Anymore                                               |            2 |
+| Dreidel                                                                        |            2 |
+| Tightrope Ride                                                                 |            2 |
+| Baby I'm-A Want You                                                            |            2 |
+| Together Again                                                                 |            2 |
+| Take Me Bak 'Ome                                                               |            2 |
+| I Just Wanna Be Your Friend                                                    |            2 |
+| Happier Than The Morning Sun                                                   |            2 |
+| It's The Same Old Love                                                         |            2 |
+| Daytime Night-Time                                                             |            2 |
+| Oh No, Not My Baby                                                             |            2 |
+| What My Baby Needs Now Is A Little More Lovin'                                 |            2 |
+| Pass The Peas                                                                  |            2 |
+| I Got A Thing About You Baby                                                   |            2 |
+| Roberta                                                                        |            2 |
+| Number Wonderful                                                               |            2 |
+| Don't Want To Say Goodbye                                                      |            2 |
+| Superstar (Remember How You Got Where You Are)                                 |            2 |
+| Thank God For You Baby                                                         |            2 |
+| Nobody But You                                                                 |            2 |
+| Hushabye                                                                       |            2 |
+| Where There's A Will, There's A Way                                            |            2 |
+| Boogie Woogie Man                                                              |            2 |
+| The Road We Didn't Take                                                        |            2 |
+| The Red Back Spider                                                            |            2 |
+| Willpower Weak, Temptation Strong                                              |            2 |
+| Where Did Our Love Go                                                          |            2 |
+| Get Out Of Bed                                                                 |            2 |
+| Melissa                                                                        |            2 |
+| Rock & Roll Stew (Part 1)                                                      |            2 |
+| Me And Jesus                                                                   |            2 |
+| Redwood Tree                                                                   |            2 |
+| Do You Want To Dance?                                                          |            2 |
+| Mama Told Me Not To Come                                                       |            2 |
+| He's An Indian Cowboy In The Rodeo                                             |            2 |
+| Theme From "Shaft"                                                             |            2 |
+| Brandy                                                                         |            2 |
+| Crunchy Granola Suite                                                          |            2 |
+| Stones                                                                         |            2 |
+| Couldn't I Just Tell You                                                       |            2 |
+| Anthem                                                                         |            2 |
+| Dedicated To The One I Love                                                    |            2 |
+| Don't Ever Take Away My Freedom                                                |            2 |
+| Sugaree                                                                        |            2 |
+| Theme From "Summer Of 42"                                                      |            2 |
+| Southbound Train                                                               |            2 |
+| One Way Sunday                                                                 |            2 |
+| Gypsys, Tramps & Thieves                                                       |            1 |
+| No Good To Cry                                                                 |            1 |
+| Lay Lady Lay                                                                   |            1 |
+| We're Together                                                                 |            1 |
+| I Miss You Baby                                                                |            1 |
+| Lucky Man (Re-Release)                                                         |            1 |
+| But I Do                                                                       |            1 |
+| I Never Said Goodbye                                                           |            1 |
+| I'm A Greedy Man (Part 1)                                                      |            1 |
+| Could It Be I'm Falling In Love                                                |            1 |
+| Songman                                                                        |            1 |
+| You Really Got A Hold On Me                                                    |            1 |
+| Love And Liberty                                                               |            1 |
+| Big City Miss Ruth Ann                                                         |            1 |
+| Don't Expect Me To Be Your Friend                                              |            1 |
+| Long Time To Be Alone                                                          |            1 |
+| Peaceful Easy Feeling                                                          |            1 |
+| My Crew                                                                        |            1 |
+| Fever                                                                          |            1 |
+| Jesus Was A Capricorn                                                          |            1 |
+| Let It Be                                                                      |            1 |
+| Turn Your Radio On                                                             |            1 |
++--------------------------------------------------------------------------------+--------------+
+679 rows in set (0.04 sec)

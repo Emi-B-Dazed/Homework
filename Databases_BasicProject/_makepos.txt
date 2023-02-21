@@ -1,0 +1,18 @@
+create table position
+(
+  po_track_id int not null,
+  po_week int not null,
+  po_date date not null,
+  po_pos int not null,
+  PRIMARY KEY (po_track_id, po_week),
+  CONSTRAINT po_track_fk FOREIGN KEY (po_track_id) REFERENCES tracks(tr_id)
+);
+
+insert into position (po_track_id,po_week, po_date, po_pos)
+
+  select tr_id, 1, tr_dateentered, week1 from tracks, top100
+    where (week1 > 0) and (tr_title = tracktitle) and (tr_year = year) and (tr_yearlyrank = yearlyrank)
+	
+	
+	;
+

@@ -1,0 +1,36 @@
+SELECT
+	t.tr_title,
+	count(t.tr_title) as timesonchart
+	
+FROM position p, tracks t, people pe
+
+WHERE 
+	#RESTRICTIONS
+	YEAR(p.po_date) = 1972
+	AND p.po_pos IS NOT NULL
+	
+	#ASSOCIATIONS
+	AND	t.tr_id = p.po_track_id
+	AND t.tr_artist_id = pe.p_id
+
+
+GROUP BY t.tr_title
+
+ORDER BY timesonchart DESC
+	
+	
+	
+	
+	
+	
+;
+
+
+
+
+#6) Either by fancy SQL code or examination of the results of 
+#less fancy code, ascertain what 2 songs were on the chart 
+#the longest in 1972, and show the answer and the results 
+#that provided the answer (you can hand mark the answer, 
+#need not have SQL print it. NOTE: use the position dates 
+#within 1972, not the track year for this one!

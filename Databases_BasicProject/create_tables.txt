@@ -1,0 +1,8 @@
+source C:\Users\emily\Documents\databases\Project\_makegenre.txt
+source C:\Users\emily\Documents\databases\Project\_makelabel.txt
+source C:\Users\emily\Documents\databases\Project\_makepeople.txt
+source C:\Users\emily\Documents\databases\Project\_filltracks.txt
+source C:\Users\emily\Documents\databases\Project\_makepos.txt
+source C:\Users\emily\Documents\databases\Project\_pos5-76.txt
+source C:\Users\emily\Documents\databases\Project\_makewroteMODIFIED.txt
+

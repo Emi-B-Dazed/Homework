@@ -1,0 +1,22 @@
+mysql> source C:\Users\emily\Documents\databases\Project\p4.txt
++-----------------------------------------+---------------------------------------------------+--------+------------+
+| person                                  | tr_title                                          | po_pos | po_date    |
++-----------------------------------------+---------------------------------------------------+--------+------------+
+| Tommy James and the Shondells           | Crimson And Clover                                |      1 | 1969-02-01 |
+| Sly & the Family Stone                  | Everyday People                                   |      1 | 1969-02-15 |
+| Tommy Roe                               | Dizzy                                             |      1 | 1969-03-15 |
+| 5th Dimension, The                      | Aquarius/Let The Sunshine In (The Flesh Failures) |      1 | 1969-04-12 |
+| Beatles, The                            | Get Back                                          |      1 | 1969-05-24 |
+| Henry Mancini, His Orchestra and Chorus | Love Theme From Romeo & Juliet                    |      1 | 1969-06-28 |
+| Zager & Evans                           | In The Year 2525 (Exordium & Terminus)            |      1 | 1969-07-12 |
+| Rolling Stones, The                     | Honky Tonk Women                                  |      1 | 1969-08-23 |
+| Archies, The                            | Sugar, Sugar                                      |      1 | 1969-09-20 |
+| Temptations, The                        | I Can't Get Next To You                           |      1 | 1969-10-18 |
+| Elvis Presley                           | Suspicious Minds                                  |      1 | 1969-11-01 |
+| 5th Dimension, The                      | Wedding Bell Blues                                |      1 | 1969-11-08 |
+| Beatles, The                            | Come Together                                     |      1 | 1969-11-29 |
+| Steam                                   | Na Na Hey Hey Kiss Him Goodbye                    |      1 | 1969-12-06 |
+| Peter, Paul and Mary                    | Leaving on A Jet Plane                            |      1 | 1969-12-20 |
+| Diana Ross and the Supremes             | Someday We'll Be Together                         |      1 | 1969-12-27 |
++-----------------------------------------+---------------------------------------------------+--------+------------+
+16 rows in set (0.01 sec)

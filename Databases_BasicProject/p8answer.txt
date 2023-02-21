@@ -1,0 +1,48 @@
+Beatles are all at the top so that's kinda weird
+
+mysql> source C:\Users\emily\Documents\databases\Project\p9.txt
++---------------------------------------------------+--------------------------+
+| tr_title                                          | person                   |
++---------------------------------------------------+--------------------------+
+| Can't Buy Me Love                                 | Beatles, The             |
+| Twist And Shout                                   | Beatles, The             |
+| She Loves You                                     | Beatles, The             |
+| I Want To Hold Your Hand                          | Beatles, The             |
+| Please Please Me                                  | Beatles, The             |
+| Suspicion                                         | Terry Stafford           |
+| Hello, Dolly!                                     | Louis Armstrong          |
+| The Shoop Shoop Song (It's In His Kiss)           | Betty Everett            |
+| My Heart Belongs To Only You                      | Bobby Vinton             |
+| Glad All Over                                     | Dave Clark Five          |
+| Dawn (Go Away)                                    | Four Seasons, The        |
+| The Way You Do The Things You Do                  | Temptations, The         |
+| Fun, Fun, Fun                                     | Beach Boys, The          |
+| Don't Let The Rain Come Down (Crooked Little Man) | Serendipity Singers, The |
+| Needles And Pins                                  | Searchers, The           |
+| Stay                                              | Four Seasons, The        |
+| Kissin' Cousins                                   | Elvis Presley            |
+| You're A Wonderful One                            | Marvin Gaye              |
+| Java                                              | Al (He's the King) Hirt  |
+| Hi-Heel Sneakers                                  | Tommy Tucker             |
+| Ain't Nothing You Can Do                          | Bobby Bland              |
+| Money                                             | Kingsmen, The            |
+| I Love You More And More Every Day                | Al Martino               |
+| Hippy Hippy Shake                                 | Swinging Blue Jeans, The |
+| Dead Man's Curve                                  | Jan and Dean             |
+| Think                                             | Brenda Lee               |
+| Navy Blue                                         | Diane Renay              |
+| Blue Winter                                       | Connie Francis           |
+| It Hurts Me                                       | Elvis Presley            |
+| Nadine (Is It You)                                | Chuck Berry              |
+| I Saw Her Standing There                          | Beatles, The             |
+| Hey Jean, Hey Dean                                | Dean And Jean            |
+| Tell It On The Mountain                           | Peter, Paul and Mary     |
+| White On White                                    | Danny Williams           |
+| Hey, Bobba Needle                                 | Chubby Checker           |
+| Rip Van Winkle                                    | Devotions, The           |
+| See The Funny Little Clown                        | Bobby Goldsboro          |
+| My Heart Cries For You                            | Ray Charles              |
+| That's The Way Boys Are                           | Lesley Gore              |
+| The New Girl In School                            | Jan and Dean             |
++---------------------------------------------------+--------------------------+
+40 rows in set (0.02 sec)

@@ -1,0 +1,19 @@
+SELECT DISTINCT
+	t.tr_title,
+	pe.person
+FROM position p, tracks t, people pe
+WHERE
+	#RESTRICTIONS
+	YEAR(p.po_date) = 1970
+	AND	p.po_pos = 10 
+	#ASSOCIATIONS
+	AND	p.po_track_id = t.tr_id
+	AND T.TR_ARTIST_ID = pe.p_id
+ORDER BY t.tr_title ASC
+;
+
+
+
+#2) Show all distinct tracks whose position data is in 1970 (not the track year, but by position
+#dates), which, at any time, occupied the #10 chart position (not necessarily the track’s highest
+#position reached). Show the song title and artist, ordered by title (43 rows).

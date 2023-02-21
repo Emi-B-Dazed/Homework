@@ -1,0 +1,10 @@
+create table source
+(
+src_id int primary key auto_increment not null,
+src_name char(1)
+);
+
+insert into source (src_name)
+select distinct source from top100 where source is not null
+
+;

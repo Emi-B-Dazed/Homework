@@ -1,0 +1,40 @@
+SELECT
+	t.tr_title,
+	pe.person,
+	p.po_pos
+	
+FROM position p, people pe, tracks t, wrote w
+
+WHERE
+	#RESTRICTIONS
+	t.tr_year = 1973
+	AND p.po_pos <= 20
+	AND t.tr_artist_id = w.wr_p_id
+	
+	#ASSOCIATIONS
+	AND t.tr_id = p.po_track_id
+	AND t.tr_id = w.wr_track_id
+	AND t.tr_artist_id = pe.p_id
+
+
+GROUP BY t.tr_id
+
+ORDER BY pe.person ASC
+
+;
+
+
+
+
+
+
+
+
+#5) What artists also wrote the track and had their peak position 
+#in the top 20 for track year = 1973? Show track title, artist name, 
+#highest position, ordered by artist name. Should yield 40
+#rows.
+
+
+
+

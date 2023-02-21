@@ -1,0 +1,10 @@
+create table label
+(
+la_id int primary key auto_increment not null,
+la_label varchar(30)
+);
+
+insert into label (la_label)
+select distinct label from top100 where label is not null
+
+;
